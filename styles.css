@@ -431,4 +431,37 @@ p{
   margin-bottom: 60px;
 }
 
+.text-footer {
+  font-size: 0.65rem;
+  text-decoration: none;
+  color: white;
+  margin: 0 0.5rem; /* Spazio tra i link */
+  white-space: nowrap;
+}
 
+.powered_by {
+  width: 100%;
+  display: block;
+}
+
+footer {
+  background-color: black;
+  padding-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; /* Centra il testo all'interno del blocco */
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem; /* Spazio tra i link e l'immagine */
+}
