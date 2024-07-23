@@ -60,7 +60,7 @@
         "id": "BODYSCEMI",
         "nome": "Pampers",
         "spettacolo": "Bodyscemi",
-        "date": ["16/11/2024 20:30"],
+        "date": ["19/11/2024 20:30"],
         "button": "https://www.teatrocolosseo.it/Spettacoli/Prezzi/Panpers/2024-11-19/2024-11-19"
       },
       {
@@ -74,14 +74,14 @@
         "id": "MISSITALIA",
         "nome": "Katia Follesa e Valeria Graci",
         "spettacolo": "Ma Non Dovevamo Vederci Più?",
-        "date": ["21/11/2024 20:30", "23/11/2024 18:00"],
+        "date": ["22/11/2024 20:30", "23/11/2024 18:00"],
         "button": "https://www.teatrocolosseo.it/Spettacoli/Prezzi/Katia-Follesa-E-Valeria-Graci/2024-11-22/2024-11-23"
       },
       {
         "id": "DANZA",
         "nome": "Parsons Dance",
         "spettacolo": "Balance For Power",
-        "date": ["22/11/2024 20:30"],
+        "date": ["27/11/2024 20:30"],
         "button": "https://www.teatrocolosseo.it/Spettacoli/Prezzi/Parsons-Dance/2024-11-27/2024-11-27"
       },
       {
@@ -102,7 +102,7 @@
         "id": "BATTITO",
         "nome": "Stomp",
         "spettacolo": "",
-        "date": ["12/12/2024 20:30", "14/12/2024 20:30", "15/12/2024 20:30"],
+        "date": ["12-13/12/2024 20:30", "14-15/12/2024 15:30 - 20:30"],
         "button": "https://www.teatrocolosseo.it/Spettacoli/Prezzi/Stomp/2024-12-12/2024-12-15"
       },
       {
@@ -141,7 +141,7 @@
         "id": "TRIO",
         "nome": "Massimo Lopez e Tullio Solenghi",
         "spettacolo": "Dove Eravamo Rimasti",
-        "date": ["13/02/2025 20:30"],
+        "date": ["13-14/02/2025 20:30"],
         "button": "https://www.teatrocolosseo.it/Spettacoli/Prezzi/Massimo-Lopez-E-Tullio-Solenghi-/2025-02-13/2025-02-14"
       },
       {
@@ -176,14 +176,14 @@
         "id": "ATHOS",
         "nome": "Il Tre Moschettieri",
         "spettacolo": "Opera Pop",
-        "date": ["28/02/2025 20:30", "01/03/2025 16:00"],
+        "date": ["28/02/2025 20:30", "01-02/03/2025 16:00"],
         "button": "https://www.teatrocolosseo.it/Spettacoli/Prezzi/I-Tre-Moschettieri-/2025-02-28/2025-03-02"
       },
       {
         "id": "NEVE",
         "nome": "Slava",
         "spettacolo": "Slava's Snowshow",
-        "date": ["Dal 5 al 7 marzo 2025 20:30", "8 marzo 2025 16:30", "9 marzo 2025 20:30"],
+        "date": ["Dal 5 al 7 marzo 2025 20:30", "8 marzo 2025 16:00 - 20:30", "9 marzo 2025 16:00"],
         "button": "https://www.teatrocolosseo.it/Spettacoli/Prezzi/Slava-S-Snowshow/2025-03-05/2025-03-09"
       },
       {
@@ -239,7 +239,7 @@
         "id": "PUB",
         "nome": "The Choir Of Man",
         "spettacolo": "",
-        "date": ["04/04/2025 20:30"],
+        "date": ["02/04/2025"],
         "button": "https://www.teatrocolosseo.it/Spettacoli/Prezzi/The-Choir-Of-Man/2025-04-02/2025-04-06"
       },
       {
